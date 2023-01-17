@@ -13,4 +13,4 @@
 
 <h3>Correlation Matrix</h3>
 <p>라면 데이터에 대한 상관행렬의 결과</p>
-<div>![image](https://user-images.githubusercontent.com/55525468/212936626-12d554f6-ae8c-4abb-8782-bc0b325ba26f.png)</div>
+![image](https://user-images.githubusercontent.com/55525468/212937244-32440110-0cc0-4e99-b9c8-8bb07706f433.png)
